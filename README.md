@@ -19,7 +19,7 @@
 ![Css](https://img.shields.io/badge/Css-green)
 ![Vue.js](https://img.shields.io/badge/Vue.js-pink)
 ![Git](https://img.shields.io/badge/Git-gold)
-![Sass](https://img.shields.io/badge/Sas-rose)
+![Sass](https://img.shields.io/badge/Sass-rose)
 
 
 
