@@ -4,8 +4,8 @@
 
 
 - ⚡  一个前端码字员
-- 🌱 I am currently pursuing my Master’s degree in Statistics at the University of Illinois at Urbana-Champaign
-- 📫 Contact me via 1647612044@qq.com
+- 🌱 在杭州从事前端开发工作
+- 📫 这是我的邮箱 1647612044@qq.com
 <br>
 
  
