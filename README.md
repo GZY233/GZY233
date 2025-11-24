@@ -1,11 +1,11 @@
-# Hi there, my name is Jinhong Zhu, you can call me Esther too! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, my name is Gzy, you can call me Jason too! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
 
-- ⚡  I graduated from Central South University in 2024, majoring in Data Science and Big Data Technology from the School of Computer Science
+- ⚡  一个前端码字员
 - 🌱 I am currently pursuing my Master’s degree in Statistics at the University of Illinois at Urbana-Champaign
-- 📫 Contact me via jinhongzhu0217@163.com
+- 📫 Contact me via 1647612044@qq.com
 <br>
 
  
@@ -18,19 +18,9 @@
 ![HTML](https://img.shields.io/badge/html-yellow)
 ![Css](https://img.shields.io/badge/Css-green)
 ![Vue.js](https://img.shields.io/badge/Vue.js-pink)
-![Python](https://img.shields.io/badge/Python-purple)
-![C](https://img.shields.io/badge/C-orange)
-![Java](https://img.shields.io/badge/Java-gray)
-![SQL](https://img.shields.io/badge/SQL-black)
-![R](https://img.shields.io/badge/R-silver)
 ![Git](https://img.shields.io/badge/Git-gold)
-![Sas](https://img.shields.io/badge/Sas-rose)
+![Sass](https://img.shields.io/badge/Sas-rose)
 
-
-
-<br/>  
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhongzhu0217&theme=dark&layout=compact&cache_seconds=30)
 
 
 
